@@ -1,5 +1,5 @@
-Fighter and its subclasses : Takwa and Sandra
-Projectile and weapon : Manuela
+Fighter and its subclasses : Takwa and Sandra ,
+Projectile and weapon : Manuela ,
 game manager : Jana
 
 the main was distributed :
